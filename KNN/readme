@@ -1,0 +1,1 @@
+Implementation of KNN learner and LinRegLearner for stock data processing. A simple stock trading strategy is generated based on the two learner using the technical features such as Bollinger band, the momentum and the volatility.
